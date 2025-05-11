@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GymApp</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="Name">Jade Smith</string>
+
+    <string name="LoginTxt"> <font color="#FFFFFF"> Already have an account?</font> <font color="#FD511E">Sign in</font></string>
+</resources>
